@@ -32,7 +32,7 @@ characters. It was developed in 2002 and is corrently updated to Unicode
  14.0 standard.
 }
 
-Source0:  https://raw.githubusercontent.com/mitradranirban/fbf-ani-fonts/main/fbf-ani-fonts-1.0.1.tar.gz
+Source0:  https://raw.githubusercontent.com/mitradranirban/fbf-ani-fonts/main/fbf-ani-fonts-1.0.2.tar.gz
 
 %fontpkg
 
